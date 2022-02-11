@@ -1,0 +1,44 @@
+.activeprice{
+	color: #E70039!important;
+}
+
+.card-p{
+	background: #fff;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+		
+}
+.srch-p-btn{
+	padding: 4px 20px;
+	border-radius: 20px;
+	margin-left: 28%;
+	font-size: 15px;
+}
+.card-p p{
+	margin-bottom: 2px;
+}
+.card-p h6{
+	margin-bottom: 14px;
+	margin-top: 5px;
+}
+.card-p a{
+	text-decoration: none;
+}
+.card-p-prt{
+	padding: 1% 2%;
+}
+.cardp-row{
+	padding: 0% 10%;
+}
+
+
+
+
+
+
+
+
+
+
+

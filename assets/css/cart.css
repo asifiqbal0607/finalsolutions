@@ -1,0 +1,50 @@
+.vl {
+  border-bottom: 1px solid #333;
+  width: 100%;
+  height: 1px;
+}
+.vl-1 {
+  border-bottom: 1px solid #333;
+  width: 100%;
+  height: 1px;
+	margin-top: 20px;
+}
+.vl-2 {
+  border-bottom: 1px solid #333;
+  width: 100%;
+  height: 1px;
+}
+.dcnt-form input, button
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.dcnt-form button{
+	padding: 7px 25px;
+	background: #E0004C;
+	color: #fff;
+	border: none;
+	cursor: pointer
+}
+.dcnt-form input{
+	padding: 5px 24px;
+}
+.cart-2l-btn{
+	background: #E40047;
+	color: #fff;
+	border: none;
+	padding: 8px 25px;
+	cursor: pointer;
+}
+.clast-btn button{
+	background: #E40047;
+	color: #fff;
+	border: none;
+	padding: 8px 25px;
+	cursor: pointer;
+}
+
+
+
+
+

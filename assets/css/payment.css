@@ -1,0 +1,62 @@
+
+.pay-main{
+	background: #eee;
+	border: 2px solid #9F9F9F;
+	padding: 0px;
+	border-radius: 30px
+}
+.pay-main h5{
+	background: #E50040;
+	padding: 20px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	color: #fff;
+}
+.card-pay{
+	padding: 10px 15px 10px 15px;
+	background: #fff;
+	margin: 0px 0px;
+	border-radius: 25px;
+	border: 1px solid #8B8B8B;
+	margin-bottom: 10px
+	
+}
+.card-pay input{
+	width: 20px;
+	height: 20px;
+	margin-top: 2px;
+}
+.amount-pay{
+	width: 100%;
+	height: 40px;
+	border-radius: 20px;
+	border: 1px solid #6E6E6E;
+	padding-left: 10px;
+}
+.card-d input{
+	width: 100%;
+	height: 40px;
+	border-radius: 20px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+	border: 1px solid #9B9B9B;
+}
+.card-d button{
+	 background: #E50040;
+	color: #fff;
+	border: none;
+	padding: 8px 40px;
+	float: right;
+	border-radius: 20px;
+	margin-top: 10px;
+	cursor: pointer
+}
+
+
+
+
+
+
+
+
+

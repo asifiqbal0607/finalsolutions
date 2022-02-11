@@ -1,0 +1,63 @@
+
+.srch-form input, select{
+	width: 100%;
+	margin-bottom: 10px;
+	height: 40px;
+	background: #eee;
+	border: 1px solid #A4A4A4;
+	padding-left: 10px;
+	font-size: 15px;
+}
+.srch-form button{
+	text-align: center;
+	padding: 10px;
+	background: #E50023;
+	color: #fff;
+	border: none;
+	width: 100%;
+	cursor: pointer;
+	
+}
+.srch-form{
+	padding: 20px 20px!important;
+	
+}
+
+.slect-s .img-s{
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.slect-s button{
+	border: none;
+	background: #E0003E;
+	text-align: center;
+	color: #fff;
+	padding: 8px 30px;
+}
+.slect-inner{
+	background: #fff;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	padding: 0px 0px 50px 20px;
+}
+.file-ulpd{
+content: 'Select some files';
+  display: inline-block;
+  background: linear-gradient(top, #f9f9f9, #e3e3e3);
+  border: 1px solid #999;
+  border-radius: 3px;
+  padding: 5px 8px;
+  outline: none;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  cursor: pointer;
+  text-shadow: 1px 1px #fff;
+  font-weight: 700;
+  font-size: 10pt;
+}
+input[type="file"] {
+	visibility: hidden!important;
+}
+.sl-slots{
+	padding-top: 30px!important;
+}
+
+

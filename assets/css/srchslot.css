@@ -1,0 +1,42 @@
+
+.srch-form input, select{
+	width: 100%;
+	margin-bottom: 10px;
+	height: 40px;
+	background: #eee;
+	border: 1px solid #A4A4A4;
+	padding-left: 10px;
+	font-size: 15px;
+}
+.srch-form button{
+	text-align: center;
+	padding: 10px;
+	background: #E50023;
+	color: #fff;
+	border: none;
+	width: 100%;
+	cursor: pointer;
+	
+}
+.srch-form{
+	padding: 20px 20px!important;
+	
+}
+.pop{
+	font-size: 13px;
+	background: #E9AFB0;
+	padding: 10px;
+	padding-left: 40px
+}
+.pop i{
+	margin-top: 3px;
+	cursor: pointer;
+}
+.refine-2{
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	padding: 30px ;
+}
+
+
+
+
